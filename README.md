@@ -60,10 +60,9 @@ Link: [http://wasterecycling-env.eba-xcpktyd2.us-east-2.elasticbeanstalk.com/](h
 - My motivation watch is [here](https://www.youtube.com/watch?v=NhF4pXBNfq8)
 
 
-[Akshat](https://www.linkedin.com/in/akshat303sri/)
+- [Akshat](https://www.linkedin.com/in/akshat303sri/)
 
 ## Credits
-- Entire credits goes to My God
 
 ## 
 - If you like my work and it helped you in anyway then please do ⭐ the repository it will motivate me to make more amazing projects
