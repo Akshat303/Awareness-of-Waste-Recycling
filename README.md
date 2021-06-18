@@ -15,7 +15,6 @@
 ## Data Source
 - In this project i have collected and filtered data by my self from google images and dreamstime.com
 - I have uploaded my dataset on google drive. 
-- [click here to get dataset](https://drive.google.com/drive/folders/1P-0X6wDHyAZunuM8C2mO8wtLUyavrjjF?usp=sharing)
 
 ## Demo
 - I have deployed this on AWS Elastic Beanstalk platform
@@ -60,9 +59,8 @@ Link: [http://wasterecycling-env.eba-xcpktyd2.us-east-2.elasticbeanstalk.com/](h
 ## Motivation
 - My motivation watch is [here](https://www.youtube.com/watch?v=NhF4pXBNfq8)
 
-## Team
 
-[Akshat](https://www.linkedin.com/in/akshat303sri/) |)
+[Akshat](https://www.linkedin.com/in/akshat303sri/)
 
 ## Credits
 - Entire credits goes to My God
